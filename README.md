@@ -1,5 +1,28 @@
 # Taller: UX Testing Voice Assistants - test-academy-19
 
+## Fases para crear presentación:
+
+### MVP
+
+- Crear repositorio
+
+- Recopilar recursos genéricos VUX
+
+- Añadir recursos Deloitte: ppt, imágenes, logos, etc...
+
+- Comenzar la presentación
+
+- Crear una aplicación con mal UX
+
+- Finalizar la presentación
+
+### Opcionales más valor
+
+- Crear más aplicaciones con incorrecciones y corregirlas en el momento
+
+- Configurar los aparatos personales y llevarlos como ejemplo al taller
+
+- Publicar Skill para el taller
 
 ## Asistentes virtuales | Nivel General | Jesús Cuesta
 
