@@ -35,3 +35,18 @@
 - [Tips for Developing High Performance Alexa Skills](https://developer.amazon.com/blogs/alexa/post/1ae545b3-cb73-43a8-b987-6613ed8ebced/tips-for-developing-high-performance-alexa-skills1)
 
 - [Building an Alexa skill — tips on conversation design](https://medium.com/voice-tech-global/building-an-alexa-skill-tips-on-conversation-design-e6a3dca3f597)
+
+## Referencias Estadísticas
+- [https://www.reasonwhy.es](https://www.reasonwhy.es/actualidad/numeros-asistentes-voz-altavoces-inteligentes)
+
+- ¿OK, Google? La carrera de los asistentes de voz se pondrá interesante en 2019](https://www.nobbot.com/futuro/asistentes-virtuales-2019/)
+
+- [New Facts Virtual Assistans](https://tech.co/news/new-facts-virtual-assistants-2019-05)
+
+- [Estadísticas en 2019 en España](https://www.itreseller.es/al-dia/2019/04/el-107-de-la-poblacion-espanola-utiliza-asistentes-virtuales-de-voz)
+
+- [Who use](https://voicebot.ai/2018/04/17/one-in-four-online-shoppers-use-voice-assistants-on-mobile-to-shop/)
+
+- [Statistics](https://www.go-gulf.com/virtual-digital-assistants/)
+
+- [Certifications Requirements Amazon](https://developer.amazon.com/docs/custom-skills/certification-requirements-for-custom-skills.html?&sc_category=Owned&sc_channel=EM&sc_campaign=onboarding&sc_publisher=step_5&sc_content=Skill_Related&sc_detail=featured_image_text&sc_funnel=Start&sc_country=WW&sc_medium=Owned_EM_onboarding_step_5_Skill_Related_featured_image_text_Start_WW_first_skill_started_CTA_view_requirements_module_3_version_a&sc_segment=first_skill_started&sc_keywords=CTA_view_requirements&sc_place=module_3&sc_trackingcode=version_a)
